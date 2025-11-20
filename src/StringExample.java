@@ -7,5 +7,10 @@ public class StringExample {
         System.out.println(message);
 
         System.out.println(message.length());
+
+        System.out.println(message.charAt(4));
+
+
+        System.out.println(message.substring(4,8));
     }
 }
