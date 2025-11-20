@@ -5,5 +5,7 @@ public class StringExample {
         String message;
         message = "My Dog Has Fleas";
         System.out.println(message);
+
+        System.out.println(message.length());
     }
 }
