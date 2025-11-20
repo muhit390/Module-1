@@ -1,6 +1,6 @@
 public class Variables {
 
-    public static void main(String[] args) {
+    public static void main(StringExample[] args) {
         int dogCount = 94;
         int catCount = 112;
         int petCount = dogCount * catCount;
